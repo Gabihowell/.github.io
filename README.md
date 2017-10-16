@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+Theme: jekyll-theme-cayman
+title: " Welsome to Gabi's Homepage!"
+Description: "keep an eyey out for updates"
+
+
+Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Gabihowell/.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
